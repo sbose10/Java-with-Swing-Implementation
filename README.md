@@ -13,7 +13,9 @@
 ### Add a button and label : Drag and drop
 
 
-#Output
+
+
+# Output
 
 ![GroceryOutput](https://github.com/sbose10/Java-with-Swing-Implementation/blob/main/SwingGrocery.JPG)
 
