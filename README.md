@@ -12,5 +12,5 @@
 ### Add a Panel and then fit it to size
 ### Add a button and label : Drag and drop
 
-![GroceryOutput](https://github.com/sbose10/Java-with-Swing-Implementation/blob/main/SwingGrocery.JPG)
+![GroceryOutput](https://github.com/sbose10/Java-with-Swing-Implementation/blob/main/SwingGrocery.JPG | width= "200")
 
